@@ -1,2 +1,2 @@
 # TeamBeagle
-Python Homework files of TeamBeagle
+Python Homework Files in TeamBeagle
